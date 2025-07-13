@@ -235,7 +235,7 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a GNU General Public License v3.0 (GPL v3).
 
 ## 👨‍💻 Autor
 
